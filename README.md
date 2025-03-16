@@ -33,7 +33,7 @@ To get started with this project, follow the steps below:
 3. Open a new terminal window.
 4. Run the client: `python client.py --image <image_path> --prompt "<prompt>"`.
 
-Now, you can see the model's output based on the input request. The model will provide responses for the images in the `images` folder based on the questions you ask in all 23 languages the model supports.
+Now, you can see the model's output based on the input request. The model will respond to the images in the `images` folder based on the questions you ask in all 23 languages the model supports.
 
 **Note**: You need a Hugging Face access token to run the application. You can get the token by signing up on the Hugging Face website and creating a new token from the settings page. After getting the token, you can set it as an environment variable `ACCESS_TOKEN` in your system by creating a `.env` file in the project's root directory. Check the `.env.example` file for reference.
 
