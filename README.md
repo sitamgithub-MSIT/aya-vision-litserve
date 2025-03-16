@@ -1,6 +1,6 @@
 # Aya-Vision LitServe
 
-[![Open In Studio](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg)](https://lightning.ai/sitammeur/studios/deploy-paligemma-2-mix-vision-language-model)
+[![Open In Studio](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg)](https://lightning.ai/sitammeur/studios/deploy-aya-vision-multilingual-model)
 
 C4AI [Aya Vision](https://huggingface.co/collections/CohereForAI/c4ai-aya-vision-67c4ccd395ca064308ee1484) is an open weights research release featuring models that offers advanced capabilities optimized for a variety of vision-language applications, including optical character recognition (OCR), captioning, visual reasoning, summarization, question answering, and coding, among others. This multilingual model has been trained to excel in 23 languages across both vision and language tasks. This project shows how to create a self-hosted, private API that deploys [Aya Vision 8B](https://huggingface.co/CohereForAI/aya-vision-8b) model variant with LitServe, an easy-to-use, flexible serving engine for AI models built on FastAPI.
 
